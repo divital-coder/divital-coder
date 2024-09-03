@@ -1,4 +1,6 @@
-# julia    C++      typescript           python                              rust    golang   bash Mojo Lua MatLab
+# Julia    C++      Python                                 
+
+## Recreational : Rust Golang Bash Mojo Lua MatLab Typescript 
 
 ### (SciML, JuliaHealth) (dash[plotly]) (svelte, sveltekit) (Plotly, HuggingFace, Tensorflow)
 ### (Docker, Kubernetes) -> Microsoft Azure 
