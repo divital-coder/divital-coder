@@ -6,4 +6,5 @@
 ### (Docker, Kubernetes) -> Microsoft Azure 
 ### Sentient Being, working every waking hour :P
 
-# [Render Zoonotically - hashnode Blog](https://hurtbadly.hashnode.dev/)
+### [Render Zoonotically - hashnode Blog](https://hurtbadly.hashnode.dev/)
+
