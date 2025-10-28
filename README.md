@@ -1,4 +1,4 @@
-## Computational Biology, High Energy Physics, AI alignment and HPC stuff.
+## Scientific Computing, AI alignment and HPC stuff.
 Deranged with virtual cell modelling for digital twins  
 Exploring Mechanistic and Machine Learning Foundations and Frontiers 
 
