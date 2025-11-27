@@ -1,5 +1,5 @@
-## Scientific Computing, AI alignment and HPC stuff.
-Deranged with virtual cell modelling for digital twins  
+## Scientific Computing, Spatial Intelligence, AI alignment, Optimization and HPC stuff.
+Deranged with depth estimation models.
 Exploring Mechanistic and Machine Learning Foundations and Frontiers 
 
 ### [Julia] [C++] [Python]
