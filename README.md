@@ -1,4 +1,4 @@
-## Scientific Computing, Spatial Intelligence, AI alignment, Optimization and HPC stuff.
+## Multimodality, Scientific Computing, Spatial Intelligence, AI alignment, Optimization and HPC stuff.
 
 Hi, I'm Divyansh.  
 
