@@ -1,4 +1,4 @@
-## Multimodality, Scientific Computing, Spatial Intelligence, AI alignment, Optimization and HPC stuff.
+## NeuroSymbolic-AI, Multimodality, Scientific Computing, Spatial Intelligence, AI alignment, Optimization and HPC stuff.
 
 Hi, I'm Divyansh.  
 
@@ -10,5 +10,5 @@ Exploring Mechanistic and Machine Learning Foundations and Frontiers
 Recreational Reference Langs : Fortran, Haskell, Zig, Elm Lua, Mojo, Chapel, Rust, Typescript, Bash, Scala, LEAN  
 AlphaEvolve and Codex might reign, so better get to work :)
 Sentient Being, working every waking hour :P 
-### [Render Zoonotically - hashnode Blog](https://hurtbadly.hashnode.dev/)
+### [Reearch and Techincal Avenues - BroadFireAI ](https://broadfire.onrender.com/)
 
