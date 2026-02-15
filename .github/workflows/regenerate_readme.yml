@@ -1,0 +1,37 @@
+name: Regenerate README
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'data/**'
+      - 'generate/**'
+  schedule:
+    # Regenerate weekly on Mondays at 06:00 UTC to pick up fresh metadata
+    - cron: '0 6 * * 1'
+  workflow_dispatch:
+
+jobs:
+  regenerate:
+    name: Regenerate README.md
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.head_ref }}
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Generate README
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python generate/build_readme.py
+
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: regenerate README.md"
+          file_pattern: README.md
